@@ -1,0 +1,1 @@
+{"name":"legal-matter-deadline-email","private":true,"type":"module","scripts":{"test":"tsx src/matter_followup.test.ts","demo":"tsx scripts/run_example.ts"},"devDependencies":{"tsx":"^4.19.0","typescript":"^5.6.0"}}
